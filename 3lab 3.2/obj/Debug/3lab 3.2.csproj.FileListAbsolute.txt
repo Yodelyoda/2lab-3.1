@@ -1,0 +1,2 @@
+C:\Users\Yoda\source\repos\3lab 3.2\obj\Debug\3lab 3.2.csprojAssemblyReference.cache
+C:\Users\Yoda\source\repos\3lab 3.2\obj\Debug\3lab 3.2.csproj.CoreCompileInputs.cache

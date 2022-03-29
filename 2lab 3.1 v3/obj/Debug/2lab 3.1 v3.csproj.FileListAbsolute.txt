@@ -1,0 +1,2 @@
+C:\Users\Yoda\source\repos\2lab 3.1 v3\obj\Debug\2lab 3.1 v3.csprojAssemblyReference.cache
+C:\Users\Yoda\source\repos\2lab 3.1 v3\obj\Debug\2lab 3.1 v3.csproj.CoreCompileInputs.cache
